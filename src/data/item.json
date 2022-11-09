@@ -12,26 +12,26 @@
     "price" : 19 ,
     "imgUrl" : "https://images.unsplash.com/photo-1521123845560-14093637aa7d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
   },  {
-    "id" : 1,
+    "id" : 3,
     "name" : "we book ",
     "price" : 1411.25 ,
     "imgUrl" : "https://images.unsplash.com/photo-1544947950-fa07a98d237f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
 
   },  {
-    "id" : 1,
+    "id" : 4,
     "name" : " dsd book ",
     "price" : 11.25 ,
     "imgUrl" : "https://images.unsplash.com/photo-1478104718532-efe04cc3ff7f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=876&q=80"
 
   },
   {
-    "id" : 1,
+    "id" : 5,
     "name" : " fg book ",
     "price" : 2.25 ,
     "imgUrl" : "https://images.unsplash.com/photo-1544947950-fa07a98d237f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
 
   },  {
-    "id" : 1,
+    "id" : 6,
     "name" : "three book ",
     "price" : 10.25 ,
     "imgUrl" : "https://images.unsplash.com/photo-1512820790803-83ca734da794?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=898&q=80"
